@@ -1,0 +1,21 @@
+{
+  "name": "philsquare/laradev",
+  "description": "Development helper for Laravel projects",
+  "keywords": ["laravel","development"],
+  "homepage": "https://github.com/philsquare/LaraDev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Philsquare LLC",
+      "email": "hello@philsquare.com",
+      "homepage": "http://philsquare.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Philsquare\\LaraDev\\": "src/"
+    }
+  },
+  "minimum-stability": "stable",
+  "require": {}
+}
